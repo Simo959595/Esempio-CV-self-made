@@ -1,0 +1,51 @@
+.title{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.foto{
+display: flex;
+height: 420px;
+width: 400px;
+}
+
+.latosx{
+display: flex;
+background-color: blanchedalmond;
+height: 800px;
+border-radius: 35px;
+margin-top: 10px;
+}
+
+.tit-con{
+font-size: 30px;
+color: rgba(165, 42, 42, 0.75);
+}
+
+.parte-sup{
+background-color: blanchedalmond;
+border-radius: 35px;
+}
+
+.titoletti{
+padding-top: 10px;
+font-weight: bold;
+line-height: 3;
+color: brown;
+}
+
+.paragrafo-finale1{
+display: flex;
+font-style: oblique;
+color: brown;
+padding-left: 2px;
+}
+
+.paragrafo-finale2{
+display: flex;
+font-style: oblique;
+color: brown;
+padding-right: 2px;
+padding-top: 24px;
+    }
+    

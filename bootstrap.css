@@ -1,0 +1,88 @@
+body{
+height: 1500px;
+}
+
+
+.container{
+margin-top: 10px;
+}
+
+.testata{
+width: 100%;
+height: 220px;
+text-align: center;
+padding-top: 70px;
+color: blue;
+background-color: rgba(77, 58, 58, 0.432);
+font-size: 80px;
+font-style: italic;
+}
+
+
+.card1{
+    height: 280px;
+    padding: 25px;
+    }
+    
+    .card2{
+    height: 280px;
+    padding: 25px;
+    }
+    
+    .card3{
+    height: 280px;
+    padding: 25px;
+    }
+    
+.w-100{
+height: 280px;
+width: auto;
+}
+
+.titolo1{
+text-align: center;
+color: aqua;
+font-size: 20px;
+}
+
+.p5{
+font-size: 55px;
+text-decoration: underline;
+color: bisque;
+background: linear-gradient(#498439,#934833);
+height: 1200px;
+width: auto;
+text-align: justify;
+}
+
+.pag2{
+background-image: url(./media/casa1.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.pag3{
+    background-image: url(./media/casa2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+
+.pag4{
+background-image: url(./media/casa3.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.homepage{
+padding-left: 50px;
+padding-top: 30px;
+text-decoration: none;
+color: lightblue;
+}
+
+.testo-casa{
+line-height: 4;
+font-size: 20px;
+color: rgb(3, 116, 3);
+background-color: beige;
+}
